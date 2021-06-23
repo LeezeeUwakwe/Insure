@@ -1,0 +1,16 @@
+li {
+  font-family: 'DM Serif Display', serif;
+}
+
+.first {
+  font-family: 'Karla', sans-serif;
+}
+.third {
+  font-family: 'DM Serif Display', serif;
+}
+.footer-content li {
+  font-size: 12px;
+  padding-top: 7px;
+  font-family: 'Karla', sans-serif;
+  color: #2C2640;
+}
